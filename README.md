@@ -1,2 +1,2 @@
 # psychic-adventure
-for test
+hello world！！！！！
